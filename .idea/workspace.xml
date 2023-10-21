@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf3484b-f0e7-488b-bc18-ad54421e549b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/gozillavskong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/toy_store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/lunch_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/shopping.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
