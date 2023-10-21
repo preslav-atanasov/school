@@ -4,12 +4,12 @@ sn = str(input("Ime na serial? "))
 el = int(input("Produljitelnost na epizod? "))
 bt = int(input("Produljitelnost na pochivkata? "))
 
-lunch = bt / 8
+lunch = bt / 8  # vreme za obqd, otdih i ostanalo vreme
 relax = bt / 4
 tl = bt - (lunch + relax)
 
 
-if tl >= el:
+if tl >= el:  # proverki dali ostanaloto vreme e dostatuchno
     ft = math.ceil(tl - el)
     print(f"You have enough time to watch {sn} and are left with {ft} minutes free time.")
 else:
