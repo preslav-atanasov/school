@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf3484b-f0e7-488b-bc18-ad54421e549b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Experiments/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiments/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/Advanced/animal_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/Advanced/cinema_ticket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/Advanced/fishing_boat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/Advanced/fruit_or_veg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/Advanced/fruit_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/Advanced/fruit_shop2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/Advanced/invalid_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/Advanced/personal_titles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/Advanced/trading_commission.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/Advanced/work_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/Advanced_2/new_home.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/First_Steps/Conditional_Statements/lunch_break.py" beforeDir="false" afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/lunch_break.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
