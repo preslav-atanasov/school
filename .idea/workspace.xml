@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf3484b-f0e7-488b-bc18-ad54421e549b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Experiments/100_to_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/mc_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/Advanced_2/on_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/For_Loops/even_uneven_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/For_Loops/histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/For_Loops/left_right_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/For_Loops/min_and_max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/For_Loops/natural_numbers_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/For_Loops/sum_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/For_Loops/sum_vowels.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
