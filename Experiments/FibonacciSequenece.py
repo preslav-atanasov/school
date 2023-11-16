@@ -1,13 +1,10 @@
-# Function to generate Fibonacci sequence
-def fibonacci(n):
-    fib_sequence = [0, 1]
-    while len(fib_sequence) < n:
-        next_number = fib_sequence[-1] + fib_sequence[-2]
-        fib_sequence.append(next_number)
-    return fib_sequence
+sequenceLength = int(input("Duljina: "))
 
-# Specify the number of Fibonacci numbers to generate
-n = 1000  # Change this value if you want a different number of Fibonacci numbers
-
-# Generate and print the Fibonacci sequence
-print(fibonacci(n))
+fib_sequence1 = 0
+fib_sequence2 = 1
+for i in range(1, sequenceLength-1):
+    placeholder1 = fib_sequence1
+    fib_sequence1 = fib_sequence2
+    fib_sequence2 = placeholder1 + fib_sequence2
+    placeholder2 = fib_sequence2
+    print(fib_sequence1, fib_sequence2, placeholder1, placeholder2)
