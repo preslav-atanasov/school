@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf3484b-f0e7-488b-bc18-ad54421e549b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/First_Steps/Conditional_Statements/Advanced_2/ski.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/For_Loops/oscar_awards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/For_Loops/paycheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/For_Loops/smart_lily.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiments/wheel_counting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/While_Loop/balance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/While_Loop/biggest_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/While_Loop/graduation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/While_Loop/number_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/While_Loop/smallest_num.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Experiments/FibonacciSequenece.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiments/FibonacciSequenece.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
