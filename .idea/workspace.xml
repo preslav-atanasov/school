@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf3484b-f0e7-488b-bc18-ad54421e549b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/First_Steps/While_Loop/cake_slices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/While_Loop/coins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/While_Loop/moving.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/While_Loop/steps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/common_nums_in_2_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/list_in_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/remove_odd_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/sort_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/word_to_letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Nested_Loops/building.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Nested_Loops/sum_of_2_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Nested_Loops/travelling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Steps/While_Loop/coins.py" beforeDir="false" afterPath="$PROJECT_DIR$/First_Steps/While_Loop/coins.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,5 +75,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
