@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf3484b-f0e7-488b-bc18-ad54421e549b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/common_nums_in_2_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/list_in_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/remove_odd_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/sort_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/word_to_letters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/Nested_Loops/building.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/Nested_Loops/sum_of_2_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/Nested_Loops/travelling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/bday_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/guess_the_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/lotto_5_35.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/First_Steps/While_Loop/coins.py" beforeDir="false" afterPath="$PROJECT_DIR$/First_Steps/While_Loop/coins.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +54,34 @@
       <recent name="C:\Users\NOSHT\Documents\GitHub\school\First_Steps\Conditional_Statements" />
       <recent name="C:\Users\NOSHT\Documents\GitHub\school\Experiments" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="guess_the_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="school" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/guess_the_num.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.guess_the_num" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
