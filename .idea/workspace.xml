@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf3484b-f0e7-488b-bc18-ad54421e549b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises/cows_n_bulls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/For_Loops/tennis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/int_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/party_profit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/snowballs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/water_overflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/bread_bakery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/invert_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/lists_positives_negatives.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/numbers_filter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,34 +59,6 @@
       <recent name="C:\Users\NOSHT\Documents\GitHub\school\First_Steps\Conditional_Statements" />
       <recent name="C:\Users\NOSHT\Documents\GitHub\school\Experiments" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="guess_the_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="school" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/guess_the_num.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.guess_the_num" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
