@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf3484b-f0e7-488b-bc18-ad54421e549b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Experiments/stresstest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/football_cards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/calculations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/grade_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/side_of_square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/add_subtract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/chars_in_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/even_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/odd_even_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/smallest_of_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/calculations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/calculations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/grade_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/grade_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/side_of_square.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

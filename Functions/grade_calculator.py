@@ -1,6 +1,3 @@
-gradeFloat = float(input())
-
-
 def solve(grade_data):
     if 2.00 <= grade_data <= 2.99:
         grade = "Fail"
@@ -15,6 +12,9 @@ def solve(grade_data):
     else:
         grade = "Please enter a valid grade"
     return grade
+
+
+gradeFloat = float(input())
 
 
 print(solve(gradeFloat))
