@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf3484b-f0e7-488b-bc18-ad54421e549b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises/int_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/party_profit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/snowballs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/water_overflow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/bread_bakery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/invert_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/lists_positives_negatives.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/numbers_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiments/stresstest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/football_cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/calculations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/grade_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/side_of_square.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
