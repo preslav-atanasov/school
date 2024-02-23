@@ -10,7 +10,3 @@ numlist = [int(x) for x in userinput.split()]
 even_numbers = filter(is_even, numlist)
 evenlist = []
 
-for x in even_numbers:
-    evenlist.append(x)
-
-print(evenlist)
