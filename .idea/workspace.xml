@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf3484b-f0e7-488b-bc18-ad54421e549b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Functions/factorial_division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/loading_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/ascii_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/bakery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/odd_occurances.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/students.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/synonyms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiments/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiments/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
