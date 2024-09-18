@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf3484b-f0e7-488b-bc18-ad54421e549b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Classes/circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/comment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/party.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/calamity_crafting_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps/Text_Processing/valid_usernames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/functions_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiments/poker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiments/poker_check_added.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiments/python_bot_added.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Experiments/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiments/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/movie.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/NOSHT/Documents/GitHub/school/Dictionaries/Group Task&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
   <component name="RecentsManager">
