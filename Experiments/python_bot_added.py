@@ -56,7 +56,7 @@ def print_result(winner, bot_hand_unformatted_value, bot_hand_unformatted_dye, m
         money += raised_sum
 
 
-money = 100
+money = 500
 raised_sum = 0
 card_ranks = {'2': 0, '3': 1, '4': 2, '5': 3, '6': 4, '7': 5, '8': 6, '9': 7, '10': 8,
               'J': 9, 'Q': 10, 'K': 11, 'A': 12}

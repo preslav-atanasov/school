@@ -16,8 +16,7 @@ class Circle:
 
 
 circle = Circle(10)
-angle = 5
+angle = 30
 print(f"{circle.calculate_circumfrence():.2f}")
 print(f"{circle.calculate_area():.2f}")
 print(f"{circle.calculate_area_of_sector(angle):.2f}")
-
