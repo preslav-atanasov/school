@@ -5,20 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf3484b-f0e7-488b-bc18-ad54421e549b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Classes/bank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/circle_again.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/person_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/shopping_cart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/smartphone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/students.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/black_ball.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/emoji_pong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiments/platform.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/parent_child_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiments/Social_Media_Usage_Full_R_with_Pivot.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiments/Social_Media_Usage_Full_with_Pivot.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiments/table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/animal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/animal/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/animal/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/animal/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/dog_cat/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/dog_cat/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/dog_cat/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/dog_cat/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/dog_cat/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/food/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/food/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/food/fruit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/food/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/person/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/person/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/person/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/person/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/person/teacher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/stack/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/stack/stack_of_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Experiments/python_bot_added.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiments/python_bot_added.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +69,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/NOSHT/Documents/GitHub/school/Dictionaries/Group Task&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -65,8 +77,11 @@
       <recent name="C:\Users\NOSHT\Documents\GitHub\school\Dictionaries\Group Task" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\NOSHT\Documents\GitHub\school\First_Steps\Conditional_Statements" />
-      <recent name="C:\Users\NOSHT\Documents\GitHub\school\Experiments" />
+      <recent name="C:\Users\NOSHT\Documents\GitHub\school\Inheritance\animal" />
+      <recent name="C:\Users\NOSHT\Documents\GitHub\school\Inheritance" />
+      <recent name="C:\Users\NOSHT\Documents\GitHub\school\Inheritance\food" />
+      <recent name="C:\Users\NOSHT\Documents\GitHub\school" />
+      <recent name="C:\Users\NOSHT\Documents\GitHub\school\Classes" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
