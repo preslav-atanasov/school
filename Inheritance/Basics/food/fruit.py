@@ -1,4 +1,4 @@
-from Inheritance.food.food import Food
+from Inheritance.Basics.food.food import Food
 
 
 class Fruit(Food):
