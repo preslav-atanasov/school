@@ -13,6 +13,7 @@ class Son(Father):
     def property(self):
         return f"10 leva v djoba"
 
+
 son = Son()
 print(son.inheritance())
 print(son.inheritance1())

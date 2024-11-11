@@ -5,59 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf3484b-f0e7-488b-bc18-ad54421e549b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Inheritance/Basics/cars/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Basics/cars/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Basics/cars/sportscar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Basics/cars/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Basics/family_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Basics/food/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Basics/person/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Basics/person/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Basics/stack/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/Basics/teacher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/need_for_speed/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/need_for_speed/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/person/child.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/players_and_monsters/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/players_and_monsters/blade_knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/players_and_monsters/dark_knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/players_and_monsters/dark_wizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/players_and_monsters/elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/players_and_monsters/hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/players_and_monsters/knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/players_and_monsters/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/players_and_monsters/muse_elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/players_and_monsters/soul_master.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/players_and_monsters/wizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zoo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zoo/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zoo/bear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zoo/gorilla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zoo/lizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zoo/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zoo/mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zoo/reptile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance/zoo/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/credit_card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/profile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/animal/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/animal/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/animal/animal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/animal/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/animal/dog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/animal/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/animal/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/dog_cat/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/animal/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/dog_cat/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/dog_cat/animal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/dog_cat/cat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/dog_cat/cat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/dog_cat/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/dog_cat/dog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/dog_cat/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/dog_cat/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/food/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/cars/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/food/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/food/food.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/food/fruit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/food/fruit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/food/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/food/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/person/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/person/employee.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/person/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/person/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/person/person.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/person/person.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/person/teacher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/person/teacher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/stack/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/dog_cat/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/stack/stack_of_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/stack/stack_of_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Basics/family_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/family_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/need_for_speed/vehicle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/need_for_speed/vehicle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
