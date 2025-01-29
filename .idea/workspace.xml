@@ -5,13 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf3484b-f0e7-488b-bc18-ad54421e549b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Encapsulation/credit_card.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation/mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation/profile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/email_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiments/aviator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiments/spotify_similarity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Handling/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Handling/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Handling/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism and Abstraction/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism and Abstraction/magic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Wild_Cat_Zoo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Wild_Cat_Zoo/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Wild_Cat_Zoo/caretaker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Wild_Cat_Zoo/cheetah.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Wild_Cat_Zoo/keeper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Wild_Cat_Zoo/lion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Wild_Cat_Zoo/tiger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Wild_Cat_Zoo/vet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Wild_Cat_Zoo/worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Wild_Cat_Zoo/zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/project/factory_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/project/products/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/project/products/base_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/project/products/chair.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/project/products/hobby_horse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/project/stores/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/project/stores/base_store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/project/stores/furniture_store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/project/stores/toy_store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/calendar/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/calendar/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/calendar/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/calendar/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/calendar/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/calendar/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/calendar/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/calendar/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/calendar/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/calendar/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/calendar/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/calendar/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/calendar/calendar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/calendar/calendar_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/cm_to_inches.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/info_to_text/form_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/info_to_text/info_to_txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/palindrome_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/phonebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summary/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summary/electronic_shop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/Basics/family_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/Basics/family_inheritance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/need_for_speed/vehicle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance/need_for_speed/vehicle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/profile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulation/profile.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +95,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/NOSHT/Documents/GitHub/school/Dictionaries/Group Task&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -58,11 +103,11 @@
       <recent name="C:\Users\NOSHT\Documents\GitHub\school\Dictionaries\Group Task" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NOSHT\Documents\GitHub\school\Projects" />
       <recent name="C:\Users\NOSHT\Documents\GitHub\school\Inheritance\Basics" />
       <recent name="C:\Users\NOSHT\Documents\GitHub\school\Inheritance\animal" />
       <recent name="C:\Users\NOSHT\Documents\GitHub\school\Inheritance" />
       <recent name="C:\Users\NOSHT\Documents\GitHub\school\Inheritance\food" />
-      <recent name="C:\Users\NOSHT\Documents\GitHub\school" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

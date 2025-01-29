@@ -1,0 +1,3 @@
+Python is great.
+File handling is important.
+Learning Python is fun!

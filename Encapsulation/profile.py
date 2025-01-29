@@ -37,4 +37,3 @@ class Profile:
 # print(invalid_name)
 correct_profile = Profile("Username", "P4ssword")
 print(correct_profile)
-
