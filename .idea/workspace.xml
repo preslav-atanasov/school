@@ -5,9 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf3484b-f0e7-488b-bc18-ad54421e549b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python GUI/contacts.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Matrices/arrays_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Matrices/astar_algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Matrices/diagonals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Matrices/even_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Matrices/flattening_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Matrices/island_perimeter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Matrices/radioactive_mutant_vampire_bunnies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Matrices/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Matrices/tic_tac_toe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/dragon_army.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/deque.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/hanoi_towers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/hanoi_towers2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/visualising_sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps/Lists/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/operate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules/mymath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules/personal-assistant/assistant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules/personal-assistant/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules/personal-assistant/tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python GUI/flashcards/flashcards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples and Sets/unique_usernames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python project/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python project/game_again.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python project/pompompurin.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python GUI/phonebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python GUI/phonebook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Steps/For_Loops/min_and_max.py" beforeDir="false" afterPath="$PROJECT_DIR$/First_Steps/For_Loops/min_and_max.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +70,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/NOSHT/Documents/GitHub/school/Dictionaries/Group Task&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">

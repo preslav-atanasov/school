@@ -11,8 +11,8 @@ for i in range(n):
     if numbers < max_num:
         max_num = numbers
 
-print(f"Max number: {max_num}")
-print(f"Min number: {min_num}")
+print(f"Min number: {max_num}")
+print(f"Max number: {min_num}")
 
 
 
